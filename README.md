@@ -58,7 +58,7 @@ This Flask project is designed to provide Blog and User management functionaliti
    pip install -r requirements.txt
    ```
 
-3. Configure Django settings in `settings.py`, including database settings, email service API keys, and other project-specific configurations.
+3. Configure Flask settings in `config.py`, including database settings, email service API keys, and other project-specific configurations.
 
 4. Start the development server:
 
